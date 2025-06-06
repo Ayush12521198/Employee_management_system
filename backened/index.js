@@ -22,7 +22,7 @@ app.use("/category", categoryRoutes);
 
 // MongoDB Connection
 mongoose.connect(
-  "mongodb+srv://ayushsharma12345:BypZHNOZEVRb73tq@cluster0.bcdqjou.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "mongodb+srv://ayushsharma12345:rc2eGcvoRL0KhTQ0@cluster0.bcdqjou.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
